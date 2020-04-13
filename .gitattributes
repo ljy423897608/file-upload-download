@@ -1,4 +1,2 @@
-*.js linguist-language=javascript
 *.js linguist-language=Vue
 *.java linguist-language=java
-*.java linguist-language=springboot
