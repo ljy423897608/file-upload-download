@@ -1,5 +1,5 @@
 # file-upload-download
-前后端实现文件下载上传（vue&springboot）
+文件下载上传的前后端实现（vue&springboot）
 
 前端技术：vue axios(web目录下进入demo，运行npm install,再运行npm run dev)
 
