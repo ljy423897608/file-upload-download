@@ -14,6 +14,7 @@ Vue.config.productionTip = false
 // 设置全局变量
 Vue.prototype.$ajax = axios
 console.log('测试合并回滚1')
+console.log('测试合并回滚2')
 
 /* eslint-disable no-new */
 new Vue({
